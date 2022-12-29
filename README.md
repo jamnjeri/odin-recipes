@@ -4,3 +4,6 @@
 - [x] Build a basic recipe website
 - [X] Website will consist of:
     1. Main index page with links to a few recipes
+
+## Objective
+-Practice HTML 
